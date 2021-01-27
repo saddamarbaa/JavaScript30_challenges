@@ -7,8 +7,7 @@ The HTML DOM (Document Object Model), The Browser Object Model (BOM), and Moderâ
 Click the link blow to see the [GitHub Pages]: (https://saddamarbaa.github.io/project_todo_app_vanillaJS/)
 
 
-## Live testing :
-https://www.loom.com/share/545c1326fa374f11a070d65e43052bcd
+## Live: https://www.loom.com/share/545c1326fa374f11a070d65e43052bcd
 
 ## All Todo's
 
