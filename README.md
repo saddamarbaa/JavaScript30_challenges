@@ -5,7 +5,7 @@ in this project I learned more about ES6+, higher-order functions,
 The HTML DOM (Document Object Model), The Browser Object Model (BOM), and Moder…
 
 
-Live:
+Live: https://www.loom.com/share/545c1326fa374f11a070d65e43052bcd
 
 ## All Todo's
 
