@@ -4,9 +4,14 @@ This is a code repository for the project: Todo List App with vanilla JavaScript
 in this project I learned more about ES6+, higher-order functions, 
 The HTML DOM (Document Object Model), The Browser Object Model (BOM), and Moder…
 
-##### Click the link blow to see the [GitHub Pages] : (https://saddamarbaa.github.io/todo-app-vanillaJS/)
+### <a href="https://todo-app-vanilla-saddam.netlify.app">LIVE DEMO</a>
 
-### <a href="https://www.loom.com/share/545c1326fa374f11a070d65e43052bcd">LIVE DEMO</a>
+
+### <a href="https://saddamarbaa.github.io/todo-app-vanillaJS/">GitHub Pages DEMO</a>
+
+
+
+### <a href="https://www.loom.com/share/545c1326fa374f11a070d65e43052bcd">LIVE DEMO VEDIO</a>
 
 
 ## All Todo's
